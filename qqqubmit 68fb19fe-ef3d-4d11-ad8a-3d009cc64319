@@ -1,0 +1,84 @@
+[33mcommit 9b099851f9854d38244839cfed0ad574cdf401d5[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Artimas831 <littlepat831@gmail.com>
+Date:   Tue May 21 14:19:48 2024 -0400
+
+    J: merging shenanigans
+
+[33mcommit 9cd0aa7dcf0baea574a7aedfdc5f0f098e66dfbf[m
+Merge: 31b262e 3c3e7ef
+Author: Artimas831 <littlepat831@gmail.com>
+Date:   Tue May 21 14:04:02 2024 -0400
+
+    K: Merge branch 'update_dune'
+
+[33mcommit 31b262ea66e7be719e527f2c51d0966e713906a4[m
+Author: Artimas831 <littlepat831@gmail.com>
+Date:   Tue May 21 13:47:49 2024 -0400
+
+    Fixed mayhem
+
+[33mcommit 3c3e7ef80306a81ceb43621b114b13203ae45aed[m[33m ([m[1;32mupdate_dune[m[33m)[m
+Author: Artimas831 <littlepat831@gmail.com>
+Date:   Fri May 17 14:13:03 2024 -0400
+
+    F: Branch merging
+
+[33mcommit f8de246ca885c91352a6405979aba4a59466ffbd[m
+Author: Artimas831 <littlepat831@gmail.com>
+Date:   Thu May 16 20:56:04 2024 -0400
+
+    I: added a quote to dune
+
+[33mcommit 5860eb7344b3bec10bbcb9e9bbf3a7c7b61c5912[m
+Author: Artimas831 <littlepat831@gmail.com>
+Date:   Thu May 16 20:55:43 2024 -0400
+
+    H: added a quote to dune
+
+[33mcommit df4a8d34ac8d2621d3183776b64d6b9a470f94c9[m
+Author: Artimas831 <littlepat831@gmail.com>
+Date:   Thu May 16 20:28:13 2024 -0400
+
+    G: Updated titles
+
+[33mcommit c319f6c71a13b26abee85afd94eb99877b7df4ae[m
+Author: Artimas831 <littlepat831@gmail.com>
+Date:   Thu May 16 19:07:14 2024 -0400
+
+    E: fixed some stuff
+
+[33mcommit 686761d8e1e281372710fc75450f5a2d9ed65eef[m
+Author: Artimas831 <littlepat831@gmail.com>
+Date:   Thu May 16 20:56:04 2024 -0400
+
+    I: added a quote to dune
+
+[33mcommit f76acf1e06ff99d6560488d96e3e64cb81e4bb1d[m
+Author: Artimas831 <littlepat831@gmail.com>
+Date:   Thu May 16 20:55:43 2024 -0400
+
+    H: added a quote to dune
+
+[33mcommit 113b1a3fb2436033ee9d7a8b48e101e0a8c63899[m
+Author: Artimas831 <littlepat831@gmail.com>
+Date:   Thu May 16 15:13:35 2024 -0400
+
+    D: added classics
+
+[33mcommit b5f9157560ee97f1cdcb7279fe96bbe0952d15e3[m
+Author: Artimas831 <littlepat831@gmail.com>
+Date:   Wed May 15 20:42:33 2024 -0400
+
+    C: added quotes
+
+[33mcommit b9acf814f5d27f2ad399848a35c4b6bfe9a4032e[m
+Author: Artimas831 <littlepat831@gmail.com>
+Date:   Wed May 15 20:15:36 2024 -0400
+
+    B: added titles
+
+[33mcommit 8ebb18bdb108bd9c2e2fbf5b88c3c6005ff2e9e3[m
+Author: Artimas831 <littlepat831@gmail.com>
+Date:   Wed May 15 15:02:17 2024 -0400
+
+    A: add contents.md
